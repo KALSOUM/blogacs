@@ -1,0 +1,46 @@
+body { 
+    font-family: Lucida Grande, Arial, Helvetica, Sans-serif;
+     font-size: 0.8em; text-align: left;
+     background: #fffefe; color: #111213; margin: 0;
+     }
+.navbar li 
+{
+    list-style-type: none;
+    display: inline;
+    font-size: 15px;
+    padding: 10px;
+   bottom: 30px!important;
+}
+.navbar-brand{
+    position: relative;
+    background-image: url("../img/ACS.png");
+    width: 250px;
+    height: 75px;
+}
+.menu{
+    top: 8px!important;
+    position: relative;
+}
+.bg-light {
+    background-color: #f8f9fa!important;
+    top: -31px;
+}
+.carousel-inner {
+    position: relative;
+    width: 121.5%;
+    overflow: hidden;
+    left: -122px;
+}
+span{
+    color: #ca163d;
+}
+.sidebar ul{ list-style-type: none;
+     margin: 0;
+      padding: 0 10px; }
+.sidebar { float: right;
+     width: 225px; margin:
+      20px 0 20px 25px; }
+.sidebar h2 { font-size: 1.2em; }
+.sidebar ul li{}
+ 
+.sidebar ul ul li{}
